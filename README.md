@@ -1,4 +1,4 @@
-# lensch-roterlago-theme
+# Lensch Roterlago Theme
 Visual Studio Code Dark Theme with Red Accent with syntax based on Atom.
 
 ![Lensch Roterlago Icon](https://github.com/federicolencina/vscode-lensch-roterlago/assets/166924760/9063a02b-c4de-465d-8908-bcfd18595baa)
