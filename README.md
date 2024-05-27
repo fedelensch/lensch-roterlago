@@ -5,9 +5,9 @@ Dark Theme for Visual Studio Code. With Red Accent and Syntax based on One Pro o
 
 ## Installation
 
-- Using the IDE built-in extensions system:
+- Using the Editor's built-in extensions system:
   
-  <kbd>Extensions</kbd> > <kbd>Lensch Roterlago</kbd> > <kbd>Install</kbd>
+  <kbd>Extensions</kbd> > <kbd>Search for "Lensch Roterlago"</kbd> > <kbd>Install</kbd>
 
 ## Preview
 
